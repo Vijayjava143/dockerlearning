@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "gb8OaM/qw3bPXlvpl3547/z1CRLGJYWmfkF5/g3Hy8/+wpgVZNg9fTyjTI0a1bE3Uyi/zmjYjDK0wXb9eBGJDQ==",
+  "dgSpecHash": "+KUahwOhIdTucG3UbUIWA0vNDaat66xvpCLeaFNHvc0LF6UIYAimlQqnSPBKEMfdekNVKALyrXgXrkRxUm25lA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vijay Bathula\\Desktop\\docker_app\\dockerapp\\dockerapp\\dockerapp.csproj",
+  "projectFilePath": "C:\\Users\\Vijay Bathula\\Source\\Repos\\dockerlearning\\dockerapp\\dockerapp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vijay Bathula\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Vijay Bathula\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Vijay Bathula\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
     "C:\\Users\\Vijay Bathula\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\Vijay Bathula\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\Vijay Bathula\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
